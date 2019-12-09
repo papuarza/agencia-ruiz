@@ -25,4 +25,16 @@
 
 .export-contact {
 width: 100%;
-	}
+  }
+  
+  @media only screen and (max-width: 767px) and (min-width: 320px) {
+.slider .slide-item {
+    height: calc(50vh - 80px);
+}
+.slider .slide__desc {
+  font-size: 18px;
+}
+.slider .slide__title {
+  font-size: 32px;
+}
+}
