@@ -1,0 +1,28 @@
+.navbar {
+  height: 70px;
+}
+
+.header-transparent .navbar {
+  background-color: rgba(255,255,255,1);
+}
+
+.navbar .navbar-nav {
+  margin-top: 10px;
+}
+
+.header-transparent .module__btn, .header-transparent .nav__item .nav__item-link {
+  color: #272727;
+  font-weight: 100;
+}
+
+.header-transparent .logo-light,
+.header-transparent .logo-dark {
+  width: 70px;
+}
+.request-quote-tabs .request__form .nav-tabs{
+	  margin-top: 0px;
+}
+
+.export-contact {
+width: 100%;
+	}
